@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Arquivo XML criado via Asp.Net com sucesso!-->
+<UserDetail>
+  <User UID="01">
+    <Name>João</Name>
+    <Address>Cubatão</Address>
+  </User>
+  <User UID="02">
+    <Name>Maria</Name>
+    <Address>Santos</Address>
+  </User>
+</UserDetail>
