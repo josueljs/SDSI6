@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Ex7.aspx.cs" Inherits="TP08.Ex7" %>
